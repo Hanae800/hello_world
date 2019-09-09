@@ -1,3 +1,2 @@
-# hello_world
-Trying to figure out how it works !
-Hi, my names is Hanae Hmimid i am trying to learn as much as i can.
+Print ("hello_world")
+And she said the casted shadow cleared out... 
